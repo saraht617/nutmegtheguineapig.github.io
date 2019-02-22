@@ -1,0 +1,27 @@
+h1{color:violet; font-weight:bold; text-align:center}
+h3{color:violet; font-weight:bold;}
+
+Body { background: dodgerblue; 
+	   color: navy;
+	   font-size: 14pt;
+	 }
+aboutme {color:yellow; font-weight:bold
+}
+
+
+nav a {	display: inline-block;
+        border: groove navy;
+        padding: 10px;
+		margin: 5px;
+		background: tomato;
+	   }
+
+		
+Favoritefoods {color:yellow; font-weight:bold
+			  }
+			
+h1 {
+  text-shadow: 3px 2px grey;
+}
+
+Body {border-style: solid;}
